@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "google-auth-library": "0.10.0",
+    "googleapis": "20.1.0"
+  },
+  "devDependencies": {},
+  "homepage": "https://github.com/bennyn/nodejs-youtube-sample#readme",
+  "main": "index.js",
+  "name": "nodejs-youtube-sample",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bennyn/nodejs-youtube-sample.git"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}
